@@ -325,10 +325,4 @@ Email-Spam-Detection/
 - **NLTK Documentation**  
   https://www.nltk.org/
 
----
-
-# Author
-
-**Jahnavi Vulava**
-
 Machine Learning | Artificial Intelligence | Natural Language Processing
